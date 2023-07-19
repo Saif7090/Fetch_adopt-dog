@@ -30,7 +30,7 @@ Clone this repository to your local machine using Git.
 
 
 git clone <https://github.com/Saif7090/Fetch_adopt-dog>
-cd vite-react-project
+cd dog-selector-app
 
 Install the project dependencies using npm or yarn.
 
