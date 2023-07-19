@@ -11,6 +11,7 @@ const MatchedDogModal = ({ dog }) => {
             <dl className="mt-1 flex flex-grow flex-col justify-between">
                 <dd className="text-sm text-gray-500">BREED: {dog.breed}</dd>
                 <dd className="text-sm text-gray-500">AGE: {dog.age}</dd>
+                <dd className="text-sm text-gray-500">ZIP CODE: {dog.zip_code}</dd>
             </dl>
         </div>
 
